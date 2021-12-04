@@ -11,3 +11,5 @@
 - Cloud Services -https://www.geeksforgeeks.org/cloud-based-services/
 
 - Cloud Security Challenges -https://www.geeksforgeeks.org/security-issues-in-cloud-computing/
+
+- Identity Access Management(IAM) -https://www.techtarget.com/searchsecurity/definition/identity-access-management-IAM-system
