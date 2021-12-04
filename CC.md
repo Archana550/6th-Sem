@@ -9,3 +9,5 @@
 - Public and Private Cloud Environment -[https://www.geeksforgeeks.org/difference-between-public-cloud-and-private-cloud/](https://www.geeksforgeeks.org/difference-between-public-cloud-and-private-cloud/)
 
 - Cloud Services -https://www.geeksforgeeks.org/cloud-based-services/
+
+- Cloud Security Challenges -https://www.geeksforgeeks.org/security-issues-in-cloud-computing/
