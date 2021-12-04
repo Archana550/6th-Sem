@@ -20,3 +20,7 @@
 
 
 - Service Oriented Architecture(SOA) -https://www.geeksforgeeks.org/service-oriented-architecture/
+
+- Virtualization -https://www.geeksforgeeks.org/virtualization-cloud-computing-types/
+
+- Virtualization Security Recommendation -https://resources.infosecinstitute.com/topic/virtualization-security-cloud-computing/
