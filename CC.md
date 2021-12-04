@@ -4,3 +4,4 @@
 
 - Cloud Computing Definition, Arcitecture, Services, Benefits ```https://www.geeksforgeeks.org/evolution-of-cloud-computing/```
 
+- Characteristics of cloud computing- ```https://www.geeksforgeeks.org/characteristics-of-cloud-computing/```
