@@ -17,3 +17,6 @@
 - The MSP model
 
 - Data Center - https://www.cisco.com/c/en_in/solutions/data-center-virtualization/what-is-a-data-center.html
+
+
+- Service Oriented Architecture(SOA) -https://www.geeksforgeeks.org/service-oriented-architecture/
