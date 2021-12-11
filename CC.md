@@ -10,7 +10,7 @@
 
 - Public and Private Cloud Environment -[https://www.geeksforgeeks.org/difference-between-public-cloud-and-private-cloud/](https://www.geeksforgeeks.org/difference-between-public-cloud-and-private-cloud/)
 
-- SPI framework- https://searchcloudcomputing.techtarget.com/definition/SPI-model
+- SPI framework-https://mizitechinfo.wordpress.com/2013/10/12/cloud-computing-spi-model-saas-paas-iaas-part-17/
 
 - Cloud Services -https://www.geeksforgeeks.org/cloud-based-services/
 
