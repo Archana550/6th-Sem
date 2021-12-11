@@ -2,7 +2,7 @@
 
 - Energence of cloud computing - https://www.geeksforgeeks.org/evolution-of-cloud-computing/
 
-- Cloud Computing Definition, Arcitecture, Services, Benefits - https://www.geeksforgeeks.org/evolution-of-cloud-computing/
+- Cloud Computing Definition, Arcitecture, Services, Benefits - https://www.geeksforgeeks.org/cloud-computing/?ref=lbp
 
 - Characteristics of cloud computing- https://www.geeksforgeeks.org/characteristics-of-cloud-computing/
 
