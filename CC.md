@@ -14,6 +14,10 @@
 
 - Cloud Services -https://www.geeksforgeeks.org/cloud-based-services/
 
+- CAAS (Communication As A Service) -https://binaryterms.com/communication-as-a-service-caas.html
+
+- MAAS (Monitering As A Service) - https://binaryterms.com/monitoring-as-a-service-maas.html
+
 - Cloud Security Challenges -https://www.geeksforgeeks.org/security-issues-in-cloud-computing/
 
 - Identity Access Management(IAM) -https://www.techtarget.com/searchsecurity/definition/identity-access-management-IAM-system
