@@ -10,7 +10,7 @@
 
 - Public and Private Cloud Environment -[https://www.geeksforgeeks.org/difference-between-public-cloud-and-private-cloud/](https://www.geeksforgeeks.org/difference-between-public-cloud-and-private-cloud/)
 
-- Serial Peripheral Interface(SPI) -https://www.javatpoint.com/spi-protocol
+- SPI framework- https://searchcloudcomputing.techtarget.com/definition/SPI-model
 
 - Cloud Services -https://www.geeksforgeeks.org/cloud-based-services/
 
