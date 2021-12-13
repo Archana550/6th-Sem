@@ -32,3 +32,5 @@
 - Virtualization -https://www.geeksforgeeks.org/virtualization-cloud-computing-types/
 
 - Virtualization Security Recommendation -https://resources.infosecinstitute.com/topic/virtualization-security-cloud-computing/
+
+- Hyperviser -https://www.geeksforgeeks.org/hypervisor/amp/
